@@ -1,4 +1,3 @@
-```java
 package org.java_code.homework;
 
 import java.util.Scanner;
@@ -143,4 +142,3 @@ public class HW12_2 {
 	}
 
 }
-```
